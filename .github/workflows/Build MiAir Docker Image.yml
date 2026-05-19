@@ -1,4 +1,4 @@
-name: Build and Push MiAir Docker Image
+name: Build MiAir Docker Image
 
 on:
   push:
